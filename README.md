@@ -1,5 +1,5 @@
 # awesome-vue-persian
-A curated list of awesome Vuejs And Nuxtjs persian plugins, components and fulters.
+A curated list of awesome Vuejs And Nuxtjs persian plugins, components and filters.
 
  - [JavaScript](#javascript)
  - [Vuejs](#vuejs)
