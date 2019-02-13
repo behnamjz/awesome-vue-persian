@@ -26,9 +26,6 @@ Name | Description
 
 [@fullcalendar-Jalaali](https://github.com/Natico/fullcalendar-Jalaali) | Display a full-size drag-n-drop event calendar, leveraging jQuery . http://fullcalendar.io A JavaScript event calendar. Customizable and open source.
 
-[@vue-persian-datetime-picker](https://github.com/talkhabi/vue-persian-datetime-picker) | A vue plugin to select jalali date and time
-
-
 
 :star: Filters
 
