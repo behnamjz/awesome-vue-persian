@@ -1,3 +1,10 @@
+<p align="center">
+  <br>
+  <img width="400" src="./logo.svg" alt="logo of vue-awesome repository">
+  <br>
+  <br>
+</p>
+
 # awesome-vue-persian
 A curated list of awesome Vuejs And Nuxtjs persian plugins, components and filters.
 
@@ -26,3 +33,14 @@ Name | Description
 :star: Filters
 
 Filter | [@vue-persian-filters](https://github.com/aliyr/vue-persian-filters) | a vue plugin for filtering strings and arrays
+
+
+:star: Apps/Websites
+
+ - [alibaba.ir](https://www.alibaba.ir)
+ - [Lenz.ir](http://lenz.ir)
+ - [phonepay.ir](https://www.phonepay.ir)
+ - [jobinja.ir](https://jobinja.ir)
+ - [roozame.com](http://www.roozame.com)
+ - [naaab.ir](http://www.naaab.ir)
+
