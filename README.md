@@ -57,3 +57,4 @@ Filter | [@vue-persian-filters](https://github.com/aliyr/vue-persian-filters) | 
  - [madya.ir](http://www.madya.ir)
  - [RJDownloader](https://narsiiis.github.io/rjdownloader/)
  - [botick.com](https://botick.com/)
+ - [basalam.com](https://basalam.com/)
