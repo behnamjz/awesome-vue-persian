@@ -45,7 +45,6 @@ Filter | [@vue-persian-filters](https://github.com/aliyr/vue-persian-filters) | 
  - [jobinja.ir](https://jobinja.ir)
  - [roozame.com](http://www.roozame.com)
  - [naaab.ir](http://www.naaab.ir)
- - [salameno.ir](https://salameno.ir)
  - [fandogh.cloud](https://fandogh.cloud)
  - [fandogh.cloud](https://fandogh.cloud)
  - [blog.fandogh.cloud](https://blog.fandogh.cloud)
@@ -53,5 +52,5 @@ Filter | [@vue-persian-filters](https://github.com/aliyr/vue-persian-filters) | 
  - [blog.tebinja.com](https://blog.tebinja.com)
  - [madya.ir](http://www.madya.ir)
  - [RJDownloader](https://narsiiis.github.io/rjdownloader/)
-
+ - [ostadbank](https://www.ostadbank.com)
 
